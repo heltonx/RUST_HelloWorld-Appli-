@@ -1,6 +1,6 @@
 # RUST_HelloWorld-Appli-
 
-Last test: September 2 2024
+Last test: September 2 2024 15:13
 
 tiny application experiment of println ! and placing holders
 
